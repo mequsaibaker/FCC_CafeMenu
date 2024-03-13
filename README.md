@@ -30,7 +30,7 @@
 
   <h2>Project URL:</h2>
   <p>GitHub: https://github.com/mequsaibaker/FCC_CafeMenu</p>
-  <p>CodePen: https://codepen.io/mequsaibaker/details/QWPEzqZ</p>p
+  <p>CodePen: https://codepen.io/mequsaibaker/details/QWPEzqZ</p>
         
 <h2>Project Status:</h2>
 <p>
