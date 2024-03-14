@@ -1,43 +1,48 @@
 <h1>Project Title: Cafe Menu</h1>
-        
+<small>Learn Basic CSS by Building a Cafe Menu</small>
+
 <h2>Project Description:</h2>
 <p>
-            The Cafe Menu project is a web application designed to showcase the menu offerings of Camper Cafe, a virtual coffee shop. The application provides an aesthetically pleasing layout that allows users to easily navigate through different categories of items, including coffee and desserts. Each item is presented with its name and price, accompanied by visually appealing images.
+    As part of my journey to master responsive web design, I undertook the project titled "Learn Basic CSS by Building a Cafe Menu." This project was a pivotal step in my learning process, focusing specifically on cascading style sheets (CSS) to enhance the visual presentation of a webpage. The aim was to grasp fundamental CSS concepts by practically applying them to design a captivating menu page for a cafe website.
 </p>
-        
-<h2>Features:</h2>
-<ol>
-<li>Categorized Menu: Items are organized into distinct categories, enhancing user experience.</li>
- <li>Visual Presentation: High-quality images accompany each menu item, providing users with a visual representation of the offerings.</li>
-<li>Responsive Design: The application adjusts gracefully to different screen sizes, ensuring a seamless experience across devices.</li>
-<li>Stylish Typography: Impactful fonts and consistent text alignment contribute to the overall aesthetic appeal.</li>
-<li>Footer Information: Essential information such as the cafe's address and a link to their website is included in the footer section.</li>
-</ol>
-        
-<h2>Technologies Used:</h2>
-<ul>
- <li>HTML5</li>
- <li>CSS3</li>
-</ul>
-        
-<h2>Future Enhancements:</h2>
-<ol>
- <li>Interactive Features: Implement shopping cart functionality for users to customize orders.</li>
-<li>Dynamic Content: Integrate backend technologies for dynamic content updates.</li>
-<li>User Authentication: Add authentication for features like order history.</li>
-<li>Feedback Mechanism: Incorporate a feedback mechanism for user opinions.</li>
-</ol>
 
-  <h2>Project URL:</h2>
-  <p>GitHub: https://github.com/mequsaibaker/FCC_CafeMenu</p>
-  <p>CodePen: https://codepen.io/mequsaibaker/details/QWPEzqZ</p>
-        
-<h2>Project Status:</h2>
+<h2>General Features:</h2>
 <p>
-            Completed
+    The project involved creating a visually appealing cafe menu page that seamlessly integrates with the overall website design. By employing CSS, I could control various aspects such as colors, fonts, sizes, and layouts to achieve the desired aesthetic.
 </p>
-        
+
+<h2>Technical Features:</h2>
+<ul>
+    <li>Implemented responsive design principles to ensure optimal viewing experience across different devices.</li>
+    <li>Utilized CSS selectors to target specific HTML elements and apply styling rules accordingly.</li>
+    <li>Employed CSS properties like background images, font styles, margins, and padding to enhance the visual appeal of the menu page.</li>
+    <li>Applied positioning techniques to align elements and create a structured layout.</li>
+    <li>Incorporated CSS transitions for smooth hover effects on links.</li>
+</ul>
+
+<h2>Used Technologies:</h2>
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+</ul>
+
+<h2>Future Enhancements:</h2>
+<ul>
+    <li>Incorporate JavaScript to add interactive features such as dynamic pricing or menu filtering.</li>
+    <li>Implement accessibility features to ensure the menu page is usable for individuals with disabilities.</li>
+    <li>Enhance the design further with animations or advanced CSS effects.</li>
+</ul>
+
+<h2>Project URL:</h2>
+<ul>
+    <li>GitHub: https://github.com/mequsaibaker/FCC_CafeMenu</li>
+    <li>CodePen: https://codepen.io/mequsaibaker/details/QWPEzqZ</li>
+</ul>
+
+<h2>Project Status:</h2>
+<p>Completed</p>
+
 <h2>Acknowledgment:</h2>
 <p>
-            This project was created as part of the curriculum of the "Responsive Web Design Certificate" provided by freeCodeCamp.org, a non-profit organization dedicated to providing free coding education to everyone worldwide. Special thanks to the FreeCodeCamp community for their valuable resources and support.
-</p> 
+        This project was created as part of the curriculum of the "Responsive Web Design Certificate" provided by freeCodeCamp.org, a non-profit organization dedicated to providing free coding education to everyone worldwide. Special thanks to the FreeCodeCamp community for their valuable resources and support.
+</p>
